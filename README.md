@@ -10,7 +10,7 @@ Curious mind, Passionate coder transforming ideas into digital reality. Fluent i
 * ✉️  You can contact me at [mayurkamble0250@gmail.com](mailto:mayurkamble0250@gmail.com)
 * 🧠  I'm learning React Js, Firebase
 * 🤝  I'm open to collaborating on Full Website
-* ⚡  I'm currently working on the Magicbricks Clone Website
+* ⚡  I'm currently elevating my Skills as a Frontend Mentor by doing some small Projects
 
 ### Skills
 

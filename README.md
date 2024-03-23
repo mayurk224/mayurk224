@@ -6,10 +6,9 @@ Full Stack Java Dev. & FrontEnd Web Dev.
 
 Curious mind, Passionate coder transforming ideas into digital reality. Fluent in languages from React JS to JavaScript. Thrives on constantly evolving with technology. Let's code and create together!
 
-* 🌍  I'm based in Nagpur/MH/India
+* 🌍  I'm based in Pune/MH/India
 * ✉️  You can contact me at [mayurkamble0250@gmail.com](mailto:mayurkamble0250@gmail.com)
-* 🧠  I'm learning React Js, Firebase
-* 🤝  I'm open to collaborating on Full Website
+* 🧠  I'm learning Python
 * ⚡  I'm currently elevating my Skills as a Frontend Mentor by doing some small Projects
 
 ### Skills

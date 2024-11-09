@@ -1,24 +1,77 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mayur Kamble
-====================================================================================================================================
+# Mayur Kamble
 
-Full Stack Java Dev. & FrontEnd Web Dev.
-----------------------------------------
+**Phone**: 7262851772  
+**Email**: mayurkamble0250@gmail.com  
+**LinkedIn**: [linkedin.com/in/mayur-kamble-a51348286](https://linkedin.com/in/mayur-kamble-a51348286)  
+**GitHub**: [github.com/mayurk224](https://github.com/mayurk224)  
+**Location**: Nagpur, Maharashtra  
 
-Curious mind, Passionate coder transforming ideas into digital reality. Fluent in languages from React JS to JavaScript. Thrives on constantly evolving with technology. Let's code and create together!
+---
 
-* 🌍  I'm based in Nagpur/MH/India
-* ✉️  You can contact me at [mayurkamble0250@gmail.com](mailto:mayurkamble0250@gmail.com)
-* 🧠  Currently I'm learning Python
-* ⚡  I'm currently elevating my Skills as a Frontend Mentor by doing some small Projects
+## Objective / Summary
+Passionate Web Developer skilled in modern web technologies including React, Firebase, and MongoDB, with a solid understanding of Java backend development using Spring Boot. Experienced in creating dynamic, user-friendly applications with responsive designs using HTML, CSS, JavaScript, and Tailwind. Adept at building full-stack solutions with a focus on delivering seamless user experiences. Seeking to leverage my skills in front-end and back-end development to contribute to innovative projects in a fast-paced tech environment, aiming to grow and excel in a web development role.
 
-### Skills
+---
 
+## Skills
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+- **Frontend**: React, HTML, CSS, JavaScript, Tailwind CSS, Vite
+- **Backend**: Java, Spring Boot, MongoDB, MySQL
+- **Tools & Technologies**: Firebase, Git, GitHub, Vercel, Render
+- **Others**: Problem-solving, Responsive Design, RESTful APIs, Agile Development
 
+---
 
-### Socials
+## Education
 
-<p align="left"> <a href="https://www.github.com/mayurk224" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mayurkamble_02/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mayur-kamble-a51348286/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+- **Degree**: B.Sc  
+- **Field of Study**: Science  
+- **College/University Name**: Shri Mathuradas Mohota College of Science  
+- **Year of Graduation**: 2021
+
+---
+
+## Projects
+
+### [AnyoneCanCook-RecipeBook](https://anyone-can-cook-recipe-book.vercel.app/)
+- **Technologies Used**: React.js, Node.js, Firebase, Tailwind CSS  
+- **Description**: Full-featured web app allowing users to explore, add, and manage recipes. Supports email/password registration and Google authentication.  
+- **Role**: Web Developer  
+
+### [BookStore App](https://book-store-app-frontend-amber.vercel.app/)
+- **Technologies Used**: MERN (MongoDB, Express.js, React.js, Node.js)  
+- **Description**: A full-stack app to manage books with CRUD functionality. Features table and card view toggles for book listings.  
+- **Role**: Full Stack Web Developer  
+
+### Vehicle Insurance System GUI
+- **Technologies Used**: Java, Java Swing  
+- **Description**: Manages vehicle insurance company operations like customer data, policies, claims, and transactions with a GUI interface.  
+- **Role**: Java Developer  
+
+---
+
+## Certifications
+
+- **Spring Data Essentials**  
+  **Issuing Organization**: Infosys Springboard  
+  **Date Obtained**: March 2, 2024  
+  [Spring Data Essentials](https://drive.google.com/file/d/10Z8fXlarw-GK7VlSC4xAs6cegZ0IP-Vv/view)  
+
+- **SQL Advanced**  
+  **Issuing Organization**: HackerRank  
+  **Date Obtained**: March 1, 2024  
+  [SQL Advanced](https://www.hackerrank.com/certificates/81bbca09fbb3)  
+
+- **Java Basic**  
+  **Issuing Organization**: HackerRank  
+  **Date Obtained**: February 29, 2024  
+  [Java Basic](https://www.hackerrank.com/certificates/95b3a8780c99)  
+
+---
+
+## Additional Information
+
+- **Languages Spoken**: Marathi, Hindi, English  
+- **Volunteer Work**: N/A  
+- **Hobbies/Interests**: Searching for new things about technology improvement  
+- **Achievements or Awards**: N/A

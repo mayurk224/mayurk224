@@ -72,6 +72,4 @@ Passionate Web Developer skilled in modern web technologies including React, Fir
 ## Additional Information
 
 - **Languages Spoken**: Marathi, Hindi, English  
-- **Volunteer Work**: N/A  
 - **Hobbies/Interests**: Searching for new things about technology improvement  
-- **Achievements or Awards**: N/A
